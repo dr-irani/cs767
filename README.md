@@ -7,3 +7,4 @@ Producing the lambda_function.py and interactive_model.json for "Say Hello Alexa
 4. Add trigger to Alexa and give Alexa developer console arn of Lambda function.
 5. Save and build model.
 6. Test in "Test" tab.
+7. Test using Echoism.io to see how it would react to actual audio input. 
